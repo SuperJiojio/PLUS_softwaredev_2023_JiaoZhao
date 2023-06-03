@@ -6,7 +6,7 @@ Default generated mask:
 After I set some parameters:
 ![image](https://github.com/SuperJiojio/PLUS_softwaredev_2023_JiaoZhao/assets/127099703/e3271afc-19a8-449f-9506-03cc1d46597f)
 
-About the enviroment,I used Google Colab to create a notebook to expalin that using cloud GPU because my pc does not have a more than 8gb GPU.So I dont have a local environment .yml file.Here are all the packages I used in doing Automatic Mask Generator:
+About the enviroment,I used Google Colab to create a notebook using cloud GPU because my pc does not have a more than 8gb GPU.So I dont have a local environment .yml file. Here are all the packages I used in doing Automatic Mask Generator:
 
 absl-py==1.4.0
 affine==2.4.0
